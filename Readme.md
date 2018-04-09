@@ -1,7 +1,29 @@
  
  ## Getting And Cleaning Data Course Project. 
  
- 
+## files in this Repo: 
+
+castDF.txt
+The final DataFrame from part 5 done using the Dcast function, it is a narrow ( tall ) tidy table
+
+castDF1.txt
+The final DataFrame from  part 5 done using the Dcast function, it is a wide table 
+
+finalDF.txt
+
+The final dataFrame from part 5 done using the summarise_all function, it is a narrow (tall) tidy table with the labels seperated ( extra not the final soultion)
+
+
+
+run_analysis.R
+
+The script for running the anlysis
+
+codeBook.md
+the codebook that shows information about the background of the data, the analysis done on the data and the variables
+
+## The script is 
+
  
  ## the libraries that will be used in this project
 
